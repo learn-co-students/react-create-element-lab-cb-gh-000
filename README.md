@@ -1,6 +1,6 @@
 # React createElement() Lab
 
-## Overview
+## Overviewf
 
 In this lab, you'll build a simple view using `createElement()`.
 
