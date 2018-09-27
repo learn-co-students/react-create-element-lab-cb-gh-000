@@ -3,10 +3,9 @@ import sinon from 'sinon';
 import Enzyme, { shallow } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 import React from 'react';
-import meInReact from '../src/index';
+import meInReact  from '../src/index';
 
 Enzyme.configure({ adapter: new Adapter() })
-
 describe('You in React', () => {
   describe('Parent element', () => {
     it('should have the right class', () => {
