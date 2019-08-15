@@ -16,11 +16,10 @@ const meInReact = (
 )
 
 // IMPORTANT!!!! uncomment the lines below to make your tests work
-/*
+
 ReactDOM.render(
   meInReact,
   document.getElementById('global')
 );
 
 export default meInReact
-*/
