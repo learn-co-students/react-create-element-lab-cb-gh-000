@@ -6,9 +6,9 @@ const meInReact = React.createElement('div', { className: 'me'},
   React.createElement('p', {}, 'Who is learning React'),
   React.createElement('ul', { className: 'my-interests' },
     React.createElement('li', {}, 'JavaScript'),
-    React.createElement('li', {}, 'nix'),
-    React.createElement('li', {}, 'nix'),
-    React.createElement('li', {}, 'nix'),
+    React.createElement('li', {}, 'React'),
+    React.createElement('li', {}, 'Movies'),
+    React.createElement('li', {}, 'Ice cream'),
   )
 )
 
